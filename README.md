@@ -1,2 +1,2 @@
-# De2-crazy_kong
-Crazy Kong Arcade vhdl code ported to de2-35 fpga.
+# DE2-Crazy_Kong
+Crazy Kong Arcade vhdl code ported to a Altera DE2-35 FPGA.
