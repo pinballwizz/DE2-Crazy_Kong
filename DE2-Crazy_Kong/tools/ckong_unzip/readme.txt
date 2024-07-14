@@ -1,1 +1,0 @@
-unzip crazy kong roms file here "ckongpt2.zip"
